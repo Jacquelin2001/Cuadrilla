@@ -1,0 +1,102 @@
+.Cuadro{
+	height: 90px;
+	width: 90px;
+	border:10px solid blue;
+	display: inline-block;
+	margin-left: 30px;
+}
+
+/*
+. Cuadro:nth-of-type(40){
+	background-color: green;
+}
+
+. Cuadro:first-of-type{
+	background-color: purple;
+}
+. Cuadro:nth-of-type(even){
+	background-color: black;
+}
+. Cuadro:nth-of-type(odd){
+	background-color: pink;
+}
+. Cuadro:nth-of-type(40){
+	background-color: yellow;
+}
+. Cuadro:nth-of-type(33){
+	background-color: yellow;
+}
+. Cuadro:nth-of-type(1){
+	background-color: yellow;
+}
+
+. Cuadro:nth-of-type(9n+1){
+background-color: grey;
+}*/
+
+/*.Cuadro:nth-of-type(8n+1){
+background-color: grey;
+}*/
+
+
+/*.Cuadro:nth-of-type(8n-4),
+div[value]{
+	background-color: orange;
+}*/
+
+
+/*div:first-of-type, div[style],.Cuadro:nth-of-type(8n+1),.Cuadro:nth-of-type(8n){
+	background-color: pink;
+}*/
+
+/*div:first-of-type, div[style],.Cuadro:nth-of-type(8n+1),.Cuadro:nth-of-type(8n){
+	background-color: indigo;
+}
+.Cuadro:nth-of-type(7n+1){
+background-color: indigo;
+}
+.Cuadro:nth-of-type(9n+1){
+background-color: indigo;
+}*/
+
+.Cuadro:nth-child(8n-2){
+	background-color: purple;
+}
+div[align]{
+	background-color: purple;
+}
+
+
+/*.Cuadro:nth-of-type(7n){
+background-color: grey;
+}
+.Cuadro:nth-of-type(9n+2){
+background-color: grey;
+}*/
+
+
+/*#Ultimo{
+	background-color: blue;
+}
+.Cuadro:last-child{
+	background-color: red;
+}*/
+
+/*.Cuadro:nth-of-type(8n+1){
+background-color: grey;
+}
+.Cuadro:nth-of-type(8n){
+background-color: grey;
+}*/
+
+
+/*
+.Cuadro:nth-of-type(7n+1){
+background-color: red;
+}
+div[style]{
+	background-color: red;
+}
+.Cuadro:nth-of-type(1){
+	background-color: white;
+}*/
